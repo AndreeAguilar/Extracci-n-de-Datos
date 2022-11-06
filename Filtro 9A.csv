@@ -1,0 +1,29 @@
+region,code,name,continent,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+South America,ARG,Argentina,South America,2780400.0,1816.0,37032000,75.1,340238.0,323310.0,Argentina,Federal Republic,Fernando de la Rua,69.0,AR
+Australia and New Zealand,AuS,Australia,Oceania,7741220.0,1901.0,18886000,79.8,351182.0,392911.0,Australia,"Constitutional Monarchy, Federation",Elisabeth II,135.0,Au
+Western Europe,AuT,Austria,Europe,83859.0,1918.0,8091800,77.7,211860.0,206025.0,osterreich,Federal Republic,Thomas Klestil,1523.0,AT
+Western Europe,BEL,Belgium,Europe,30518.0,1830.0,10239000,77.8,249704.0,243948.0,Belgie/Belgique,"Constitutional Monarchy, Federation",Albert II,179.0,BE
+South America,BRA,Brazil,South America,8547403.0,1822.0,170115000,62.9,776739.0,804108.0,Brasil,Federal Republic,Fernando Henrique Cardoso,211.0,BR
+North America,CAN,Canada,North America,9970610.0,1867.0,31147000,79.4,598862.0,625626.0,Canada,"Constitutional Monarchy, Federation",Elisabeth II,1822.0,CA
+Western Europe,CHE,Switzerland,Europe,41284.0,1499.0,7160400,79.6,264478.0,256092.0,Schweiz/Suisse/Svizzera/Svizra,Federation,Adolf Ogi,3248.0,CH
+Eastern Asia,CHN,China,Asia,9572900.0,-1523.0,1277558000,71.4,982268.0,917719.0,Zhongquo,People'sRepublic,Jiang Zemin,1891.0,CN
+Western Europe,DEu,Germany,Europe,357022.0,1955.0,82164700,77.4,2133367.0,2102826.0,Deutschland,Federal Republic,Johannes Rau,3068.0,DE
+Nordic Countries,DNK,Denmark,Europe,43094.0,800.0,5330000,76.5,174099.0,169264.0,Danmark,Constitutional Monarchy,Margrethe II,3315.0,DK
+Southern Europe,ESP,Spain,Europe,505992.0,1492.0,39441700,78.8,553233.0,532031.0,Espana,Constitutional Monarchy,Juan Carlos I,653.0,ES
+British Islands,GBR,united Kingdom,Europe,242900.0,1066.0,59623400,77.7,1378330.0,1296830.0,united Kingdom,Constitutional Monarchy,Elisabeth II,456.0,GB
+Eastern Asia,HKG,Hong Kong,Asia,1075.0,,6782000,79.5,166448.0,173610.0,Xianggang/Hong Kong,Special Administrative Region of China,Jiang Zemin,937.0,HK
+Southern and Central Asia,IND,India,Asia,3287263.0,1947.0,1013662000,62.5,447114.0,430572.0,Bharat/India,Federal Republic,Kocheril Raman Narayanan,1109.0,IN
+Southern and Central Asia,IRN,Iran,Asia,1648195.0,1906.0,67702000,69.7,195746.0,160151.0,Iran,Islamic Republic,Ali Mohammad Khatami-Ardakani,1380.0,IR
+Eastern Asia,JPN,Japan,Asia,377829.0,-660.0,126714000,80.7,3787042.0,4192638.0,Nihon/Nippon,Constitutional Monarchy,Akihito,1532.0,JP
+Central America,MEX,Mexico,North America,1958201.0,1810.0,98881000,71.5,414972.0,401461.0,Mexico,Federal Republic,Vicente Fox Quesada,2515.0,MX
+Southeast Asia,MYS,Malaysia,Asia,329758.0,1957.0,22244000,70.8,69213.0,97884.0,Malaysia,"Constitutional Monarchy, Federation",Salahuddin Abdul Aziz Shah Alhaj,2464.0,MY
+Western Africa,NGA,Nigeria,Africa,923768.0,1960.0,111506000,51.6,65707.0,58623.0,Nigeria,Federal Republic,Olusegun Obasanjo,2754.0,NG
+Western Europe,NLD,Netherlands,Europe,41526.0,1581.0,15864000,78.3,371362.0,360478.0,Nederland,Constitutional Monarchy,Willem-Alexander,5.0,NL
+Nordic Countries,NOR,Norway,Europe,323877.0,1905.0,4478500,78.7,145895.0,153370.0,Norge,Constitutional Monarchy,Harald V,2807.0,NO
+Australia and New Zealand,NZL,New Zealand,Oceania,270534.0,1907.0,3862000,77.8,54669.0,64960.0,New Zealand/Aotearoa,Constitutional Monarchy,Elisabeth II,3499.0,NZ
+Eastern Europe,RuS,Russian Federation,Europe,17075400.0,1991.0,146934000,67.2,276608.0,442989.0,Rossija,Federal Republic,Vladimir Putin,3580.0,Ru
+Middle East,SAu,Saudi Arabia,Asia,2149690.0,1932.0,21607000,67.8,137635.0,146171.0,Al- Arabiya as-Sa udiya,Monarchy,Fahd ibn Abdul-Aziz al-Sa ud,3173.0,SA
+Nordic Countries,SWE,Sweden,Europe,449964.0,836.0,8861400,79.6,226492.0,227757.0,Sverige,Constitutional Monarchy,Carl XVI Gustaf,3048.0,SE
+Southeast Asia,THA,Thailand,Asia,513115.0,1350.0,61399000,68.6,116416.0,153907.0,Prathet Thai,Constitutional Monarchy,Bhumibol Adulyadej,3320.0,TH
+North America,uSA,united States,North America,9363520.0,1776.0,278357000,77.1,8510700.0,8110900.0,united States,Federal Republic,George W. Bush,3813.0,uS
+South America,VEN,Venezuela,South America,912050.0,1811.0,24170000,73.1,95023.0,88434.0,Venezuela,Federal Republic,Hugo Chavez FrIas,3539.0,VE
